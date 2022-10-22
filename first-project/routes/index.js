@@ -5,7 +5,7 @@ const upload = require("../module/imageUpload");
 const { render } = require('../app');
 
 
-/* let arr = []
+let arr = []
 
 
 //GET method
@@ -47,7 +47,7 @@ router.delete('/delete/:id',(req,res)=>{
     message: "delete success",
     result : arr,
   })
-}) */
+}) 
 
 
 
